@@ -2,7 +2,10 @@ here will be a description
 
 https://github.com/slimphp/Slim/blob/4.x/README.md
 
+https://github.com/slimphp/PHP-View
+
 Самостоятельная работа
+
 1.Создайте php-проект (используя Composer) с кодом из описания фреймворка https://github.com/slimphp/Slim
 
 Выполните инициализацию проекта.
